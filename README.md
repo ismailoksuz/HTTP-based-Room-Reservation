@@ -1,9 +1,10 @@
 <div align="center" >
 
 # **HTTP-based-Room-Reservation**
+<br>
+<img src=/icons/coding.png height="120">
 
-### **Prepared by**
-
+### Developers
 |ID   | Name & Surname  |Github Profile|
 |---|---|---|
 |150119516   |**İsmail ÖKSÜZ**   |<a href="https://github.com/ismailoksuz/">ismailoksuz</a>|
