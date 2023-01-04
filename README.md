@@ -1,6 +1,6 @@
 <div align="center" >
 
-# **HTTP-based-Room-Reservation** 
+# **HTTP Based Room Reservation** 
 <br>
   <div align="right" >
 <a href="https://nodejs.org/en/"><img src=/icons/icons8-nodejs-48.png height="48"></a>
